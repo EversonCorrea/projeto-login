@@ -51,11 +51,20 @@ section#login > div#formulario{
     padding: 10px;
 
 }
+div#formulario > h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+div#formulario > p{
+    font: 0.8em;
+}
+
+
 footer{
     color: #F96F01;
     width: 100vw;
     height: 5%;
-    padding: 10px;
+    padding: 3px;
     text-align: center;
 }
 footer a{
