@@ -14,7 +14,7 @@ Laranja: #F96F01
     box-sizing: border-box;
 }
 body, html{
-    background-image: linear-gradient(to bottom, #00131d, #004369, #f96f01);
+    background-image: linear-gradient(to bottom, #00131d, #004369);
     height: 100vh;
     width: 100vw;
 }
