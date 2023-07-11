@@ -51,3 +51,19 @@ section#login > div#formulario{
     padding: 10px;
 
 }
+footer{
+    color: #F96F01;
+    width: 100vw;
+    height: 5%;
+    padding: 10px;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+    color: #F96F01;
+
+}
+footer a:hover{
+    text-decoration: underline;
+    color: white;
+}
